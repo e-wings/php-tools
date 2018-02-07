@@ -6,6 +6,8 @@
  * Time: 下午3:30
  */
 
+namespace ewings\php;
+
 class Tools
 {
     public function info(){
