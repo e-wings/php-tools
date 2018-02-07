@@ -6,8 +6,7 @@
   },
   "autoload": {
     "psr-4": {
-      "ewings\\php\\": "src/",
-      "Ford\\Escape\\": "src/Ford/Escape"
+      "ewings\\php\\": "src/"
     }
   }
 }
